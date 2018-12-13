@@ -10,4 +10,4 @@ build-essential packet
 
 ## Usage:
 
-./mem_access <K packets per second> <allocated memory in KBytes> <alpha>
+`./mem_access <K packets per second> <allocated memory in KBytes> <alpha>`
